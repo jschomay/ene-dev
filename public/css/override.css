@@ -1,5 +1,9 @@
+/* Sidebar nav */
+.sidebar-nav-item {
+  display: inline-block;
+  font-size: 0.9em;
+}
 
-/* About section */
-.sidebar-about h1 {
-  font-size: 3.25rem;
+.copyright {
+  font-size: 0.6em;
 }
