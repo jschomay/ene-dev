@@ -8,7 +8,8 @@ tagline:
 description: >
   The winding path behind building an interactive story-telling framework 
 url:             ''
-baseurl:          '/ene-dev/'
+baseurl:          '/ene-dev'
+permalink: pretty
 
 excerpt_separator: <!--more-->
 
