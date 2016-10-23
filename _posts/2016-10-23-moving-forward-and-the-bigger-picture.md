@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 ---
 
 When I started making this framework, I had planned for it to be completely code-driven.  I took inspiration from other code-based storytelling tools, such as [Inform 7](http://inform7.com/) and [Ren'Py](https://www.renpy.org/).  I put a lot of attention into making a very clean and simple API for story authors.

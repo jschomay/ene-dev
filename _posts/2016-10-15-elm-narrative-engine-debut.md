@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Elm Narrative Engine's Debut
+comments : true
 ---
 
 [The Elm Narrative Engine](http://package.elm-lang.org/packages/jschomay/elm-narrative-engine/1.0.0) was born as a tool for creating and playing interactive stories that focus on dynamic narration and exploration over puzzle solving and branching choices, with a simple point-and-click interface.
