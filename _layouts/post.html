@@ -23,10 +23,12 @@ layout: default
       {% endfor %}
   </ul>
   {% if page.comments %}
+    <hr>
+    <h3>Feedback</h3>
     <div id="disqus_thread"></div>
     <script>
        var disqus_config = function () {
-         this.page.url = "{{ page.url | prepend: site.baseurl }}";
+         this.page.url = "{{ page.url | prepend: site.url }}";
          this.page.identifier = "{{ page.title }}";
        };
       (function() { // DON'T EDIT BELOW THIS LINE
