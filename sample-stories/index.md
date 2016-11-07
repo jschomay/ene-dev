@@ -14,7 +14,7 @@ A silly sample story demonstrating version 2.0.0 of the Elm Narrative Engine.  I
 
 It also features a branching narration with multiple ways to complete the story and two different endings :).
 
-See the [source code](https://github.com/jschomay/elm-interactive-story-starter/tree/2.0.0/src) for this story.
+See the [source code](https://github.com/jschomay/elm-interactive-story-starter/tree/2.0.1/src) for this story.
 
 ---
 
