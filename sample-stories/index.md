@@ -1,10 +1,28 @@
 ---
-title: Sample stories
+title: Sample stories made with the Elm Narrative Engine
 layout: page
 permalink: /sample-stories/
 ---
 
-Here are some sample story made with the Elm Narrative Engine.
+---
+
+## Little Red Riding Hood demo pieces
+
+With the completion of version 3.0.0 of the engine, I made a number of sample pieces demonstrating the new flexibility of the engine.
+
+- ### [Classic with connecting locations](little-red-riding-hood/classic/) 
+
+  The standard layout, but making use of a custom component to add "exits" to each location
+
+- ### [Point-and-click adventure style](little-red-riding-hood/point-and-click/)
+
+  A totally fresh look, focusing on visuals instead of text
+
+- ### [Top-down RPG style](little-red-riding-hood/top-down/)
+
+  Connects the narrative engine to Phaser.js for a full immersive game
+
+See all the [sources](https://github.com/jschomay/little-red-riding-hood).
 
 ---
 
@@ -23,9 +41,3 @@ See the [source code](https://github.com/jschomay/elm-interactive-story-starter/
 This is the original demo story that I made for my ElmConf presentation.  It demonstrates all of the v1.0.0 features and lasts for about 5 minutes.  I had the audience play through it live, which was very well received (see the [recorded presentation](http://youtube.com/watch?v=t8RSxzpw1Yw)).
 
 See the [source code](https://github.com/jschomay/elm-interactive-story-starter/tree/1.0.0/src) for this story.
-
----
-
-## More sample stories soon to come
-
-Stay tuned...
