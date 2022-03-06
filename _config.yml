@@ -7,8 +7,8 @@ tagline:
   The winding path behind building an interactive story framework 
 description: >
   The winding path behind building an interactive story-telling framework 
-url:             'http://blog.elmnarrativeengine.com'
-baseurl:          ''
+url:             'https://jschomay.github.io/'
+baseurl:          'ene-dev'
 permalink: pretty
 
 excerpt_separator: <!--more-->
